@@ -1,0 +1,15 @@
+/home/estudante/SP3065928/LP3/P02/bin/Debug/net6.0/P02
+/home/estudante/SP3065928/LP3/P02/bin/Debug/net6.0/P02.deps.json
+/home/estudante/SP3065928/LP3/P02/bin/Debug/net6.0/P02.runtimeconfig.json
+/home/estudante/SP3065928/LP3/P02/bin/Debug/net6.0/P02.dll
+/home/estudante/SP3065928/LP3/P02/bin/Debug/net6.0/P02.pdb
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/P02.csproj.AssemblyReference.cache
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/P02.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/P02.AssemblyInfoInputs.cache
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/P02.AssemblyInfo.cs
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/P02.csproj.CoreCompileInputs.cache
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/P02.dll
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/refint/P02.dll
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/P02.pdb
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/P02.genruntimeconfig.cache
+/home/estudante/SP3065928/LP3/P02/obj/Debug/net6.0/ref/P02.dll
