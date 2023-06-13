@@ -1,0 +1,15 @@
+/home/estudante1/sp3067602/AtividadeGastos/bin/Debug/net7.0/AtividadeGastos
+/home/estudante1/sp3067602/AtividadeGastos/bin/Debug/net7.0/AtividadeGastos.deps.json
+/home/estudante1/sp3067602/AtividadeGastos/bin/Debug/net7.0/AtividadeGastos.runtimeconfig.json
+/home/estudante1/sp3067602/AtividadeGastos/bin/Debug/net7.0/AtividadeGastos.dll
+/home/estudante1/sp3067602/AtividadeGastos/bin/Debug/net7.0/AtividadeGastos.pdb
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/AtividadeGastos.csproj.AssemblyReference.cache
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/AtividadeGastos.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/AtividadeGastos.AssemblyInfoInputs.cache
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/AtividadeGastos.AssemblyInfo.cs
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/AtividadeGastos.csproj.CoreCompileInputs.cache
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/AtividadeGastos.dll
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/refint/AtividadeGastos.dll
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/AtividadeGastos.pdb
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/AtividadeGastos.genruntimeconfig.cache
+/home/estudante1/sp3067602/AtividadeGastos/obj/Debug/net7.0/ref/AtividadeGastos.dll
