@@ -1,0 +1,5 @@
+/home/estudante1/SP3067602/AtividadeAvaliativa/obj/Debug/net7.0/AtividadeAvaliativa.csproj.AssemblyReference.cache
+/home/estudante1/SP3067602/AtividadeAvaliativa/obj/Debug/net7.0/AtividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/SP3067602/AtividadeAvaliativa/obj/Debug/net7.0/AtividadeAvaliativa.AssemblyInfoInputs.cache
+/home/estudante1/SP3067602/AtividadeAvaliativa/obj/Debug/net7.0/AtividadeAvaliativa.AssemblyInfo.cs
+/home/estudante1/SP3067602/AtividadeAvaliativa/obj/Debug/net7.0/AtividadeAvaliativa.csproj.CoreCompileInputs.cache
