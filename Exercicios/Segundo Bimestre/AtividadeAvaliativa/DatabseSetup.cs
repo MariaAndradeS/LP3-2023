@@ -29,7 +29,7 @@ class DatabaseSetup {
                 cidade varchar(45) not null,
                 cep varchar(11) not null,
                 uf varchar(02) not null,
-                ie varchar(12) not null);
+                ie varchar(12) not null
             );
         ";
 

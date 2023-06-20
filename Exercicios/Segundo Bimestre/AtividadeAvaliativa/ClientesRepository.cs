@@ -31,8 +31,8 @@ class ClientesRepository {
             var cep = reader.GetString(4);
             var uf = reader.GetString(5);
             var ie = reader.GetString(6);
-            var clientes = ReaderToClientes(reader);
-            clientes.Add(clientes);
+            var cliente =  ReaderToCliente(reader);
+            clientes.Add(cliente);
         }
 
         connection.Close();
@@ -60,14 +60,14 @@ class ClientesRepository {
 
         return clientes;
     }
-    public bool Apresentar(int clientesid)
+    public bool Apresentar(int codcliente)
     {
         var connection = new SqliteConnection(_databaseConfig.ConnectionString);
         connection.Open();
 
         var command = connection.CreateCommand();
-        command.CommandText = "SELECT count(id) FROM Clientes WHERE (id = $id)";
-        command.Parameters.AddWithValue("$id", clientesid);
+        command.CommandText = "SELECT count(codcliente) FROM Clientes WHERE (codcliente = $id)";
+        command.Parameters.AddWithValue("$id", codcliente);
 
         var reader = command.ExecuteReader();
         reader.Read();
@@ -82,17 +82,17 @@ class ClientesRepository {
         connection.Open();
 
         var command = connection.CreateCommand();
-        command.CommandText = "SELECT * FROM Clientes WHERE (id = $codcliente)";
+        command.CommandText = "SELECT * FROM Clientes WHERE (codcliente = $codcliente)";
         command.Parameters.AddWithValue("$codcliente", codcliente);
 
         var reader = command.ExecuteReader();
         reader.Read();
 
-        var clientes = ReaderToClientes(reader);
+        var cliente = ReaderToCliente(reader);
 
         connection.Close(); 
 
-        return clientes;
+        return cliente;
     }
     private Clientes ReaderToCliente(SqliteDataReader reader)
     {

@@ -1,4 +1,3 @@
-namespace AtividadeAvaliativa.Models;
 
 class Vendedores {
     public int CodVendedor { get; set; }
